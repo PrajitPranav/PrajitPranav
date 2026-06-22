@@ -48,7 +48,7 @@
 ## 🚀 Featured Projects
 
 <p align="center">
-  <b>ThrottleIQ</b> • <b>SeniorEase</b> • <b>Bat Gear</b><br/>
+  <b>ThrottleIQ</b> • <b>Bat Gear</b><br/>
   <b>Maserati Clone</b> • <b>Innovation and Entrepreneurship Forum Website</b> • <b>Automatic Headlight Dimmer</b>
 </p>
 
