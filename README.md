@@ -2,7 +2,7 @@
 
 # Hi, I'm Prajit Pranav 👋
 
-### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Developer;Flutter+Developer;Hackathon+Winner;Computer+Science+Engineering+Student" alt="Typing SVG" /></a>
+### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;ASPIRING+Software+DeveloperHackathon+Winner;Computer+Science+Engineering+Student" alt="Typing SVG" /></a>
 
 **Computer Science Engineering Student at Kongu Engineering College**  
 **SOFTWARE DEVELOPER**  
