@@ -44,6 +44,32 @@
 
 <br />
 
+## 💻 LeetCode Journey
+
+<a href="https://leetcode.com/PRAJITPRANAV">
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=light&font=Fira%20Code&ext=activity" alt="LeetCode Stats and Activity Heatmap" />
+</a>
+<br />
+<!-- Note: leetcard.jacoblin.cool is used as it elegantly combines Stats, Progress, and Heatmap into one reliable card -->
+
+<br />
+
+## 📊 GitHub Analytics
+
+<a href="https://github.com/PrajitPranav">
+  <img src="https://github-readme-stats.vercel.app/api?username=PrajitPranav&show_icons=true&theme=transparent&title_color=2196F3&text_color=777&icon_color=2196F3&hide_border=true" alt="GitHub Stats" />
+</a>
+<br/>
+<a href="https://github.com/PrajitPranav">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrajitPranav&theme=transparent&hide_border=true&title_color=2196F3&text_color=777&icon_color=2196F3&background=transparent" alt="GitHub Streak" />
+</a>
+<br/>
+<a href="https://github.com/PrajitPranav">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajitPranav&layout=compact&theme=transparent&title_color=2196F3&text_color=777&hide_border=true" alt="Top Languages" />
+</a>
+
+<br />
+
 ## 🐍 GitHub Contribution Snake
 
 <picture>
