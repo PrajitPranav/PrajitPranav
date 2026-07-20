@@ -46,7 +46,7 @@
 
 ## 💻 LeetCode Journey
 
-<a href="https://leetcode.com/PRAJITPRANAV">
+<a href="https://leetcode.com/u/PRAJITPRANAV">
   <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=light&font=Fira%20Code&ext=activity" alt="LeetCode Stats and Activity Heatmap" />
 </a>
 <br />
