@@ -46,16 +46,11 @@
 
 ## 💻 LeetCode Journey
 
-
-
 <a href="https://leetcode.com/u/PRAJITPRANAV">
-  <img src="https://leetcard.jacoblin.cool/PRAJITPRANAV?theme=light&font=Fira%20Code&ext=activity" alt="LeetCode Stats and Activity Heatmap" />
+  <img src="https://leetcard.jacoblin.cool/PRAJITPRANAV?theme=light&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats and Activity Heatmap" />
 </a>
-<br />
-<!-- Note: leetcard.jacoblin.cool is used as it elegantly combines Stats, Progress, and Heatmap into one reliable card -->
 
 <br />
-
 
 ## 📊 GitHub Analytics
 
